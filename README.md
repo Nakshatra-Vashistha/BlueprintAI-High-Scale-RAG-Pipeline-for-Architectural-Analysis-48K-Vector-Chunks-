@@ -1,0 +1,2 @@
+# BlueprintAI-High-Scale-RAG-Pipeline-for-Architectural-Analysis-48K-Vector-Chunks-
+An end-to-end, asynchronous RAG pipeline that processes natural language queries to retrieve and synthesize source-cited compliance answers from 48,000+ architectural document chunks. Built on a high-performance FastAPI backend, the system integrates Pinecone vector search, Gemini 2.5 Flash, and Supabase token authentication.
