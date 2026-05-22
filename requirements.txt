@@ -1,0 +1,14 @@
+transformers==4.44.2
+numpy<2.0
+torch>=2.0.0
+pymupdf==1.24.10
+pytesseract==0.3.10
+Pillow==10.4.0
+sentence_transformers==3.0.1
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pinecone-client==5.0.1
+supabase==2.7.4
+python-dotenv==1.0.1
+tqdm==4.66.5
+google-generativeai
